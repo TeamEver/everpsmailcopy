@@ -19,7 +19,7 @@ class Everpsmailcopy extends Module
     public function __construct()
     {
         $this->name = 'everpsmailcopy';
-        $this->displayName = $this->l('Mail copy');
+        $this->displayName = $this->l('Ever mail copy');
         $this->description = $this->l('Receive a copy of mails');
         $this->tab = 'administration';
         $this->version = '1.0.3';
